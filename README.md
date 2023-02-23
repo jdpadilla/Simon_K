@@ -1,2 +1,2 @@
-# gamesimon.github.io
+# Simon_K
 Simon Game
